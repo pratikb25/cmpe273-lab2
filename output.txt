@@ -1,0 +1,12 @@
+Server:
+=======
+pratikb@hackbook:~/pratikb_python_calculator$ python3 server.py 
+Started server on port '[::]:15432'...
+Waiting for request...
+
+
+Client:
+=======
+pratikb@hackbook:~/pratikb_python_calculator$ python3 client.py 50 60
+Sum of two numbers is: 110
+
